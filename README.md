@@ -1,67 +1,24 @@
-## Hi there 👋
+# Меня зовут Анатолий Бакшаев 👋
 
-<!--
-**AnatoliyBakshaev/AnatoliyBakshaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Привет, я <Имя> 👋
+**Java-разработчик** · <Нижний Новгород> · Открыт к стажировке
 
-**Java-разработчик (стажёр / junior)** • <Город> • Открыт к стажировкам и первой работе
+Разбираю, как Java работает внутри: коллекции, многопоточность, Streams, JMM. Решаю алгоритмы, пишу backend на Spring Boot.
 
-Изучаю backend-разработку на Java: коллекции, многопоточность, Streams API, Spring, SQL.
-Люблю разбираться, **как всё устроено внутри**, и записывать это в конспекты.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+## Проекты
 
-## 🛠 Стек
+- [**<spring_springboot>**](https://github.com/AnatoliyBakshaev/spring_springboot) - <Система управления медицинской клиникой>
+- [**<SentalCourse>**](https://github.com/AnatoliyBakshaev/SentalCourse/tree/LibraryManagement) - <Система учета книг в библиотеке>
 
-[![Java](https://skillicons.dev/icons?i=java,spring,postgres,maven,gradle,git,docker,linux,idea)](https://skillicons.dev)
+## Сейчас изучаю
 
-- **Язык:** Java 17+ (Collections, Streams API, Generics, многопоточность)
-- **Фреймворки:** Spring Boot (изучаю)
-- **БД:** PostgreSQL, SQL (JOIN, индексы, транзакции)
-- **Инструменты:** Git, Maven/Gradle, IntelliJ IDEA, Docker (базово)
-- **Тесты:** JUnit 5, Mockito (изучаю)
+`java.util.concurrent` · JVM и GC · Spring Boot · SQL · Алгоритмы
 
----
+## Связь со мной
 
-## 📌 Проекты
-
-| Проект | Что делает | Технологии |
-|---|---|---|
-| [<название>](https://github.com/USERNAME/<repo>) | <1 строка: что решает> | Java, Spring Boot, PostgreSQL |
-| [<название>](https://github.com/USERNAME/<repo>) | <1 строка> | Java, JUnit |
-| [<название>](https://github.com/USERNAME/<repo>) | <1 строка> | Java |
-
----
-
-## 📚 Чему учусь сейчас
-
-- 🔹 Многопоточность и `java.util.concurrent`
-- 🔹 JVM: память, сборщик мусора
-- 🔹 Spring Boot, REST API
-- 🔹 Алгоритмы: решаю задачи на LeetCode
-
----
-
-## 📊 Статистика
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true)
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true)
-
----
-
-## 📫 Связаться со мной
-
-- Telegram: [@<ник>](https://t.me/<ник>)
-- Email: <почта>
-- LinkedIn / hh.ru: <ссылка>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Telegram](https://t.me/nuklimzy) · [Email](mailto:nuklimzy@gmail.com) · [hh.ru](https://nn.hh.ru/resume/34dccb54ff11071fea0039ed1f413255354749?hhtmFrom=profile)
