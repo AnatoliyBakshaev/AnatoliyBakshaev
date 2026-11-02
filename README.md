@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anatoly%20Bakshaev&fontSize=42&fontColor=ffffff&desc=Java%20Developer&descSize=20&descAlignY=65&animation=fadeIn" />
+</p>
 # Меня зовут Анатолий Бакшаев 
 
 **Java-разработчик** · Нижний Новгород · Открыт к стажировке
@@ -22,3 +25,6 @@
 
 ## Связь со мной
 [Telegram](https://t.me/nuklimzy) · [Email](mailto:nuklimzy@gmail.com) · [hh.ru](https://nn.hh.ru/resume/34dccb54ff11071fea0039ed1f413255354749?hhtmFrom=profile) · [LeetCode](https://leetcode.com/u/<LEETCODE_USERNAME>/)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+</p>
