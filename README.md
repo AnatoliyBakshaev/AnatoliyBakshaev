@@ -1,7 +1,7 @@
 # Меня зовут Анатолий Бакшаев 
 
 **Java-разработчик** · Нижний Новгород · Открыт к стажировке
-Разбираю, как Java работает внутри: коллекции, многопоточность, Streams, JMM. Решаю алгоритмы, пишу backend на Spring Boot.
+Разбираю, как Java работает внутри: коллекции, многопоточность, Streams, JMM. Решаю алгоритмы, пишу backend на Spring Boot.  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -14,7 +14,7 @@
 - [**SentalCourse**](https://github.com/AnatoliyBakshaev/SentalCourse/tree/LibraryManagement) - система учета книг в библиотеке
 
 ## Алгоритмы
-Регулярно решаю задачи на [LeetCode](https://leetcode.com/u/AnatoliyBakshaev/): хэш-таблицы, стеки и очереди, `PriorityQueue`, связные списки, деревья, графы, задачи на многопоточность, бинарный-поиск.
+Регулярно решаю задачи на [LeetCode](https://leetcode.com/u/AnatoliyBakshaev/): хэш-таблицы, стеки и очереди, `PriorityQueue`, связные списки, деревья, графы, задачи на многопоточность, бинарный-поиск.  
 ![LeetCode](https://leetcard.jacoblin.cool/AnatoliyBakshaev?theme=dark&font=Fira%20Code&ext=heatmap)
 
 ## Сейчас изучаю
