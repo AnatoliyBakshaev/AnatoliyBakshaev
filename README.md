@@ -1,6 +1,6 @@
 # Меня зовут Анатолий Бакшаев 👋
 
-**Java-разработчик** · <Нижний Новгород> · Открыт к стажировке
+**Java-разработчик** · Нижний Новгород · Открыт к стажировке
 
 Разбираю, как Java работает внутри: коллекции, многопоточность, Streams, JMM. Решаю алгоритмы, пишу backend на Spring Boot.
 
@@ -9,11 +9,18 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/<LEETCODE_USERNAME>/)
 
 ## Проекты
 
-- [**<spring_springboot>**](https://github.com/AnatoliyBakshaev/spring_springboot) - <Система управления медицинской клиникой>
-- [**<SentalCourse>**](https://github.com/AnatoliyBakshaev/SentalCourse/tree/LibraryManagement) - <Система учета книг в библиотеке>
+- [**spring_springboot**](https://github.com/AnatoliyBakshaev/spring_springboot) - клиент-серверное web-приложение системы управления медицинской клиникой
+- [**SentalCourse**](https://github.com/AnatoliyBakshaev/SentalCourse/tree/LibraryManagement) - система учета книг в библиотеке
+
+## Алгоритмы
+
+Регулярно решаю задачи на [LeetCode](https://leetcode.com/u/<LEETCODE_USERNAME>/): хэш-таблицы, стеки и очереди, `PriorityQueue`, связные списки, деревья, графы, задачи на многопоточность.
+
+![LeetCode](https://leetcard.jacoblin.cool/<LEETCODE_USERNAME>?theme=dark&font=Fira%20Code&ext=heatmap)
 
 ## Сейчас изучаю
 
@@ -21,4 +28,4 @@
 
 ## Связь со мной
 
-[Telegram](https://t.me/nuklimzy) · [Email](mailto:nuklimzy@gmail.com) · [hh.ru](https://nn.hh.ru/resume/34dccb54ff11071fea0039ed1f413255354749?hhtmFrom=profile)
+[Telegram](https://t.me/nuklimzy) · [Email](mailto:nuklimzy@gmail.com) · [hh.ru](https://nn.hh.ru/resume/34dccb54ff11071fea0039ed1f413255354749?hhtmFrom=profile) · [LeetCode](https://leetcode.com/u/<LEETCODE_USERNAME>/)
