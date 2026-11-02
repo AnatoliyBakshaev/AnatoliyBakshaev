@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anatoly%20Bakshaev&fontSize=42&fontColor=ffffff&desc=Java%20Developer&descSize=20&descAlignY=65&animation=fadeIn" />
-</p>
-# Меня зовут Анатолий Бакшаев 
+</p>  
 
-**Java-разработчик** · Нижний Новгород · Открыт к стажировке
+# Меня зовут Анатолий Бакшаев  
+
+**Java-разработчик** · Нижний Новгород · Открыт к стажировке  
 Разбираю, как Java работает внутри: коллекции, многопоточность, Streams, JMM. Решаю алгоритмы, пишу backend на Spring Boot.  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
